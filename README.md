@@ -6,3 +6,4 @@ Learning how to use git
 
 * Will Eastman
 * John Wayne II
+* Clint Eastwood
